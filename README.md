@@ -18,7 +18,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD3](td03_enonce.ipynb) | Les bases de Python | :white_check_mark: |
 | [TD4]() | Les fonctions en Python | :x: |
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
-| [TD6]() |  | :x: |
+| [TD6]() | Logique, flux de contrôle et filtrage | :x: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
