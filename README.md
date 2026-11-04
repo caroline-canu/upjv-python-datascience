@@ -19,7 +19,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD4](td04_enonce.ipynb) | Les fonctions en Python | :white_check_mark: |
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et filtrage | :white_check_mark: |
-| [TD7]() | Étude de cas : Statistiques sur les pirates informatiques et Enquête sur les films Netflix | :x: |
+| [TD7](td07_enonce.ipynb) | Étude de cas : Statistiques sur les pirates informatiques et Enquête sur les films Netflix | :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
