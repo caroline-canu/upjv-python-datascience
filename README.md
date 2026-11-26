@@ -20,7 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | :white_check_mark: |
 | [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et filtrage | :white_check_mark: |
 | [TD7](td07_enonce.ipynb) | Étude de cas : Statistiques sur les pirates informatiques et Enquête sur les films Netflix | :white_check_mark: |
-| [TD8]() | Étude de cas : L'art du Groupby | : x : |
+| [TD8]() | Étude de cas : L'art du Groupby | :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
